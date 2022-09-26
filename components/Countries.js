@@ -4,7 +4,7 @@ import React from "react";
 export default function Countries() {
     return (
         <View>
-            <Text>Countries</Text>
+            <Text >Countries h</Text>
         </View>
     );
 }
